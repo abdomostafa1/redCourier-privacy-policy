@@ -3,7 +3,8 @@ Privacy Policy
 
 ### Introduction  
 We understand that our users care about how their personal information is used and shared.   
-Our privacy policy will help you understand what information we collect at Red, Red Courier app is made to help our couriers to recieve shipments from vendors and deliver them to customers thourght our mobile application.   
+Our privacy policy will help you understand what information we collect at Red.   
+Red Courier app is made to help our couriers to recieve shipments from vendors and deliver them to customers thourght our mobile application.   
 This Privacy Policy is meant to help you understand what information we collect, why we collect it. Our activities of collecting and processing your data will be done in good faith.
 ### Information Collection and Use  
 The information we collect are
