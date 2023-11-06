@@ -2,13 +2,15 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at Red, Red Courier app is made to help our couriers to recieve shipments from vendors and deliver them to customers thourght our mobile application.
+We understand that our users care about how their personal information is used and shared.   
+Our privacy policy will help you understand what information we collect at Red, Red Courier app is made to help our couriers to recieve shipments from vendors and deliver them to customers thourght our mobile application.   
+This Privacy Policy is meant to help you understand what information we collect, why we collect it. Our activities of collecting and processing your data will be done in good faith.
 ### Information Collection and Use  
 The information we collect are
 * Email
 * Password
 
-We collect information to provide and improve our service. Couriers need to sign in to our app with their accounts So every courier can receive and deliver shipments  assigned to him.
+ collected for courier authentication and account management. Couriers need to sign in to our app with their accounts So every courier can receive and deliver shipments  assigned to him.
 
 ### Cookies  
 our app doesn't use any cookies.  
@@ -17,7 +19,7 @@ our app doesn't use any cookies.
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
 ### Children’s Privacy  
-The Company does not knowingly collect or solicit personal information from children  under 13. 
+The Company does not knowingly collect or solicit personal information from children  under 13. our app is intended for users above 18
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
