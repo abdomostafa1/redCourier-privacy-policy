@@ -25,7 +25,7 @@ The Company does not knowingly collect or solicit personal information from chil
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
 ### SECURITY MEASURES
-Wassallni is built with reliable security features that continuously protect your information. We keep detecting and automatically blocking security threats from ever reaching you.
+Red is built with reliable security features that continuously protect your information. We keep detecting and automatically blocking security threats from ever reaching you.
 We work hard to protect you from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
 * We use encryption to keep your data private while in transit;
 * We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems;
