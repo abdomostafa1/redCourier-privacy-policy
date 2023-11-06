@@ -8,7 +8,6 @@ Red Courier app is made to help our couriers to recieve shipments from vendors a
 ### Information Collection and Use  
 The information we collect are
 * Email
-* Password
 
  collected for courier authentication and account management. Couriers need to sign in to our app with their accounts So every courier can receive and deliver shipments  assigned to him.
 
